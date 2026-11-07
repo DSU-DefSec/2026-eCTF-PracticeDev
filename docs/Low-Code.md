@@ -106,7 +106,7 @@ Investigates the weird and obscure parts of the system and draws in as much cont
 Oneline Description
 
 <details>
-<summary><strong><h3>Role Details & Guidelines</h3></strong></summary>
+<summary><h3><strong>Role Details & Guidelines</strong></h3></summary>
 ## Example Tasks:
 Short list of things one can do
 
