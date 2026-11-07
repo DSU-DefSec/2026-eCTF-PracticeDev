@@ -34,7 +34,7 @@ The eCTF directly rewards/requires good documentation of the project, but also t
 Help design secure firmware by identifying potential security risks, proposing technical specifications, and documenting security requirements before implementation.
 
 <details>
-<summary><strong><h3>Role Details & Guidelines</h3></strong></summary>
+<summary><h3><strong>Role Details & Guidelines</h3></strong></summary>
 
 ### Example Tasks: 
 - Propose security requirements for individual firmware components.
@@ -69,8 +69,7 @@ Use research and AI tools critically. AI-generated assessments may assist resear
 ## Technical Researcher
 Investigates unfamiliar technologies and produces concise, actionable research notes for developers.
 
-<details>
-<summary><strong><h3>Role Details & Guidelines</h3></strong></summary>
+<details><summary><h3><strong>Role Details & Guidelines</strong></h3></summary>
 
 ## Example Tasks:
 - Research Hardware capabilities
